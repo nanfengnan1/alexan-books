@@ -1,0 +1,7 @@
+version: latest
+build:
+  os: Ubuntu 20.04.6 LTS
+  tools:
+    python: "3.8.10"
+sphinx:
+   configuration: docs/source/conf.py
