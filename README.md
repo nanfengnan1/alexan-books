@@ -2,14 +2,14 @@
 
 ### 1. install build envirment
 
-> 1. ####create and active python env
+> 1. #### create and active python env
 >
 >    ```bash
 >    python3 -m venv env
 >    source env/bin/activate
 >    ```
 >
-> 2. ####install deps software
+> 2. #### install deps software
 >
 >    ```bash
 >    python3 -m pip install --upgrade pip
