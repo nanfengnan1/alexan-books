@@ -1,4 +1,4 @@
-version: latest
+version: 7.1.2
 build:
   os: ubuntu 20.04.6
   tools:
