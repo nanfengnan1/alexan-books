@@ -5,6 +5,7 @@ build:
     python: "3.8"
 sphinx:
   configuration: docs/source/conf.py  # Path to Sphinx configuration file
+
 python:
-install:
-- requirements: .requirements.txt
+  install:
+    - requirements: .requirements.txt
