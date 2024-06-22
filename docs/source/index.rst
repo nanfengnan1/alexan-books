@@ -10,6 +10,7 @@ Welcome to alexan-books's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   document/C++运算符重载.md
 
 Indices and tables
 ==================
